@@ -1,10 +1,11 @@
 #! /bin/sh
 
-sxhkd &
+sxhkd & 
 
-feh --bg-fill ~/Pictures/wallpaper3.jpg &
+feh --bg-fill ~/Pictures/wallpaper7.jpg &
 
 bash $HOME/.config/polybar/launch.sh
+bash $HOME/complaunch.sh
 
 # workspaces
 bspc monitor -d 1 2 3 4 5 6 7 8 9
