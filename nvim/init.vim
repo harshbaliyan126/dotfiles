@@ -1,7 +1,6 @@
 call plug#begin('~/.local/share/nvim/plugged')
 Plug 'davidhalter/jedi-vim'
 Plug 'valloric/youcompleteme'
-Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 Plug 'scrooloose/nerdTree'
 Plug 'mattn/emmet-vim'
 Plug 'tpope/vim-surround'
@@ -10,7 +9,6 @@ Plug 'easymotion/vim-easymotion'
 Plug 'bling/vim-airline'
 Plug 'turbio/bracey.vim'
 call plug#end()
-
 " Config Section
 inoremap <expr> <C-j> pumvisible() ? "\<C-n>" : "\<C-j>"
 inoremap <expr> <C-k> pumvisible() ? "\<C-p>" : "\<C-k>"
