@@ -39,7 +39,7 @@ Here is my Arch Linux configuration
 
 # To have polybar you have to Install following packages:
 -   **Font**: [Inter](https://www.archlinux.org/packages/community/any/inter-font/),[font-Awesome](https://www.archlinux.org/packages/community/any/ttf-font-awesome/)
--   **Spotify**: [Here](https://github.com/dietervanhoof/polybar-spotify-controls) is the link get all required files and dependencies to run it
+-   **Spotify**: [Here](https://github.com/dietervanhoof/polybar-spotify-controls) is the link to get all required files and dependencies to run it
 ## To clone my repo do as following 
 
 1. Clone this in your home directory
