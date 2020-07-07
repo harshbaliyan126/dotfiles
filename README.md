@@ -28,12 +28,12 @@ Here is my Arch Linux configuration
 
 ### Here is all other details 
 
-   **WM**: bspwm
-   **Terminal**: URxvt
-   **Font**: [Monospace](https://github.com/be5invis/Iosevka)
-   **Color Scheme**: [Gruvbox (Dark)](https://github.com/morhetz/gruvbox)
-   **Compositor**: Yeah(but not for terminal)
-   **AUR Package Manager**: [Yay](https://github.com/Jguer/yay)
+-   **WM**: bspwm
+-   **Terminal**: URxvt
+-   **Font**: [Monospace](https://github.com/be5invis/Iosevka)
+-   **Color Scheme**: [Gruvbox (Dark)](https://github.com/morhetz/gruvbox)
+-   **Compositor**: Yeah(but not for terminal)
+-   **AUR Package Manager**: [Yay](https://github.com/Jguer/yay)
 
 **Wallpaper [hear](wallpaper7.jpg)**.
 
@@ -41,22 +41,22 @@ Here is my Arch Linux configuration
 
 1. Clone this in your home directory
 
-'''console
+```console
 $ git clone https://github.com/harshbaliyan126/dotfiles.git
-'''
+```
 
 2. Copy the config files to their respective directories(-u stands for updateif already you have this files then it's gonna update it so be careful )
 
-'''console
+```console
 $ cp -ur ~/dotfiles/bspwm/ ~/.config
 $ cp -ur ~/dotfiles/sxhkd/ ~/.config
 $ cp -ur ~/dotfiles/polybar/ ~/.config
 $ cp -ur ~/dotfiles/nvim/ ~/.config
 $ cp -ur ~/dotfiles/.Xresources ~
 $ cp -ur ~/dotfiles/wallpaper7.jpg ~/Pictures	
-'''
+```
 3. Then simply reboot 
 
-'''console
+```console
 $ reboot 
-'''
+```
