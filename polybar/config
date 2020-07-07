@@ -20,7 +20,8 @@ height = 27
 line-size = 1
 wm-restack = bspwm
 modules-left = bspwm
-modules-right = network battery alsa datetime 
+modules-center = spotify previous playpause next
+modules-right =  alsa datetime 
 padding = 2
 module-margin = 2
 
@@ -35,28 +36,6 @@ label-focused-padding = 1
 label-occupied-padding = 1
 label-empty-padding = 1
 
-[module/mpd]
-type = internal/mpd
-host = 127.0.0.1
-port = 6600
-format-online = "<icon-prev>  <toggle>  <icon-next> <label-song>"
-format-online-padding = 2
-label-song-padding = 1
-label-song = %artist%: %title%
-
-format-offline = <label-offline>
-label-offline =  offline
-format-offline-foreground = ${colors.foreground}
-format-offline-background = ${colors.background}
-
-icon-prev = 
-icon-stop = 
-icon-play = 
-icon-pause = 
-icon-next = 
-
-label-song-maxlen = 45
-label-song-ellipsis = true
 
 [module/alsa]
 type = internal/alsa
@@ -87,4 +66,52 @@ label-connected = " "
 type = internal/date
 date = %b %d, %H:%M
 
+[module/previous]
+type = custom/script
+interval = 86400
+format = "%{T3}<label>"
+format-padding = 5
+; Previous song icon
+exec = echo ""
+; Check if spotify is running before displaying the icon
+exec-if = "pgrep spotify"
+format-underline = #1db954
+line-size = 1
+click-left = "dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.Previous"
 
+[module/next]
+type = custom/script
+interval = 86400
+format = "%{T3}<label>"
+format-padding = 5
+; Next song icon
+exec = echo ""
+; Check if spotify is running before displaying the icon
+exec-if = "pgrep spotify"
+format-underline = #1db954
+line-size = 1
+click-left = "dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.Next"
+
+[module/playpause]
+type = custom/ipc
+; Default
+hook-0 = echo ""
+; Playing
+hook-1 = echo ""
+; Paused
+hook-2 = echo ""
+initial = 1
+format-underline = #1db954
+line-size = 1
+click-left = "dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.PlayPause"
+
+[module/spotify]
+type = custom/ipc
+hook-0 = echo ""
+hook-1 = python3 ~/.scripts/spotify/spotify_status.py
+initial = 1
+format-padding = 4
+format-underline = #1db954
+line-size = 1
+; [i3wm only] - Uncomment the below line to focus on Spotify when clicking on the song name (credits to https://github.com/Esya)
+; click-left = i3-msg '[class="Spotify"] focus'
