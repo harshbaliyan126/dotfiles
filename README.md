@@ -21,6 +21,7 @@ Here is my Arch Linux configuration
 | **Image Viewer**         | [feh](https://feh.finalrewind.org/)                                                                                    |
 | **Screenshot App**       | [scrot](https://github.com/resurrecting-open-source-projects/scrot)                                                    |
 | **System Monitor (CLI)** | ytop                                                                                                                   | 
+| **Notification-daemon**  | [Deadd Notification Center](https://aur.archlinux.org/packages/deadd-notification-center/)                             |
 
 ### Here is the screenshot 
 
