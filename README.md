@@ -45,13 +45,14 @@ Here is my Arch Linux configuration
 $ git clone https://github.com/harshbaliyan126/dotfiles.git
 ```
 
-2. Copy the config files to their respective directories(-u stands for updateif already you have this files then it's gonna update it so be careful )
+2. Copy the config files to their respective directories(-u stands for update so it's gonna update your present directories )
 
 ```console
 $ cp -ur ~/dotfiles/bspwm/ ~/.config
 $ cp -ur ~/dotfiles/sxhkd/ ~/.config
 $ cp -ur ~/dotfiles/polybar/ ~/.config
 $ cp -ur ~/dotfiles/nvim/ ~/.config
+$ cp -ur ~/dotfiles/picom/ ~/.config
 $ cp -ur ~/dotfiles/.Xresources ~
 $ cp -ur ~/dotfiles/wallpaper7.jpg ~/Pictures	
 ```
