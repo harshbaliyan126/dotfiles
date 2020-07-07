@@ -12,7 +12,7 @@ Here is my Arch Linux configuration
 | **Terminal**             | [URxvt](http://software.schmorp.de/pkg/rxvt-unicode.html)                                                              |
 | **Display Manager**      | [LightDM](https://github.com/canonical/lightdm) with [webkit2-greeter](https://github.com/antergos/web-greeter)        |
 | **Apps Launcher**        | [dmenu](https://tools.suckless.org/dmenu/)                                                                             |
-| **Text Editor **         | Neovim                                                                                                                 |
+| **Text Editor**         | Neovim                                                                                                                 |
 | **File Manager (CLI)**   | [ranger](http://ranger.github.io/)                                                                                     |
 | **File Manager (GUI)**   | PCManFM                                                                                                                |
 | **Sound Mixer**         | Pulseaudio                                                                                                             |
