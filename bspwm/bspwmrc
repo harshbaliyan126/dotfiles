@@ -2,10 +2,18 @@
 
 sxhkd & 
 
-feh --bg-fill ~/Pictures/wallpaper7.jpg &
+feh --bg-fill ~/Downloads/autumn_trees_road_fog_landscape_4288x2848.jpg &
 
-bash $HOME/.config/polybar/launch.sh
-bash $HOME/complaunch.sh
+spotify &
+
+#for swallowing
+
+(ps x | grep bspswallow | grep -v grep) || bspswallow &
+
+source $HOME/.config/polybar/launch.sh &
+source $HOME/complaunch.sh &
+source $HOME/zplug1.sh &
+source $HOME/.scripts/spotify/launchlistener.sh &
 
 # workspaces
 bspc monitor -d 1 2 3 4 5 6 7 8 9
