@@ -40,7 +40,7 @@ Here is my Arch Linux configuration
 
 # To have polybar you have to Install following packages:
 -   **Font**: [Cozette](https://aur.archlinux.org/packages/cozette-otb),[font-Awesome](https://www.archlinux.org/packages/community/any/ttf-font-awesome/),[IPAGothic](https://www.archlinux.org/packages/?name=otf-ipafont)
--   **Spotify**: Use get [playerctl](https://aur.archlinux.org/packages/playerctl-git/) from aur repository 
+-   **Spotify**: Get [playerctl](https://aur.archlinux.org/packages/playerctl-git/) from aur repository 
 ## To clone my repo do as following 
 
 1. Clone this in your home directory
