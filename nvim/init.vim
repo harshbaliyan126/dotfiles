@@ -1,5 +1,6 @@
 call plug#begin('~/.local/share/nvim/plugged')
 Plug 'davidhalter/jedi-vim'
+Plug 'zhou13/vim-easyescape'
 Plug 'valloric/youcompleteme'
 Plug 'scrooloose/nerdTree'
 Plug 'mattn/emmet-vim'
@@ -11,6 +12,7 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'morhetz/gruvbox'
 Plug 'turbio/bracey.vim'
+Plug 'dracula/vim', { 'as': 'dracula'}
 call plug#end()
 
 " Config Section
@@ -21,6 +23,7 @@ let g:user_emmet_expandabbr_key = ',,'
 map <Leader> <Plug>(easymotion-prefix)
 set number
 syntax on
+imap jj <Esc>
 packloadall  
 silent! helptags ALL
 " enable tabline
