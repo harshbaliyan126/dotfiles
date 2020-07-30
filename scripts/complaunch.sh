@@ -1,0 +1,3 @@
+picom &
+> deadd-notification-center
+
