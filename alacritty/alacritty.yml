@@ -1,0 +1,97 @@
+window:
+  #dimensions:
+  #  columns: 0
+  #  lines: 0
+  #position:
+  #  x: 0
+  #  y: 0
+
+  padding:
+    x: 20
+    y: 20
+
+   #Spread additional padding evenly around the terminal content.
+  dynamic_padding: true
+
+  #title: Alacritty
+  #class:
+    #instance:Alacritty
+    #general: Alacritty
+
+  #gtk_theme_variant: None
+
+scrolling:
+  history: 10000
+  multiplier: 3
+
+
+cursor:
+  style: Block # ▇ Block, _ Underline, | Beam
+  unfocused_hollow: true
+  # Live config reload (changes require restart)
+live_config_reload: true
+shell:
+  program: /usr/bin/zsh
+  #args:
+    #- --login
+
+font:
+  normal:
+    family: Hack
+    style: Regular
+
+  bold:
+    family: Hack
+    style: Bold
+
+  italic:
+    family: Hack
+    style: Italic
+
+  bold_italic:
+    family: Hack
+    style: Bold Italic
+
+  size: 11
+
+# Colors (Gruvbox dark)
+colors:
+  # Default colors
+  primary:
+    # hard contrast: background = '#1d2021'
+    background: '#282828'
+    # soft contrast: background = '#32302f'
+    foreground: '#ebdbb2'
+
+  # Normal colors
+  normal:
+    black:   '#282828'
+    red:     '#cc241d'
+    green:   '#98971a'
+    yellow:  '#d79921'
+    blue:    '#458588'
+    magenta: '#b16286'
+    cyan:    '#689d6a'
+    white:   '#a89984'
+
+  # Bright colors
+  bright:
+    black:   '#928374'
+    red:     '#fb4934'
+    green:   '#b8bb26'
+    yellow:  '#fabd2f'
+    blue:    '#83a598'
+    magenta: '#d3869b'
+    cyan:    '#8ec07c'
+    white:   '#ebdbb2'
+
+key_bindings:
+  # (Windows/Linux only)
+  - { key: V,        mods: Control|Alt, action: Paste            }
+  - { key: C,        mods: Control|Alt, action: Copy             }
+  - { key: Insert,   mods: Shift,         action: PasteSelection   }
+  - { key: Key0,     mods: Control,       action: ResetFontSize    }
+  - { key: Equals,   mods: Control,       action: IncreaseFontSize }
+  - { key: Add,      mods: Control,       action: IncreaseFontSize }
+  - { key: Subtract, mods: Control,       action: DecreaseFontSize }
+  - { key: Minus,    mods: Control,       action: DecreaseFontSize }
