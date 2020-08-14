@@ -30,7 +30,7 @@ Here is my Arch Linux configuration
 ### Here is all other details
 
 -   **WM**: bspwm
--   **Terminal**: URxvt
+-   **Terminal**: Alacritty
 -   **Font**: [Hack](https://sourcefoundry.org/hack/)
 -   **Color Scheme**: [Gruvbox (Dark)](https://github.com/morhetz/gruvbox)
 -   **Compositor**: Yeah
