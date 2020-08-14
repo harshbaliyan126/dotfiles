@@ -36,7 +36,7 @@ Here is my Arch Linux configuration
 -   **Compositor**: Yeah
 -   **AUR Package Manager**: [Yay](https://github.com/Jguer/yay)
 
-**Wallpaper [hear](fern_leaf_plant_green_119970_1920x1080.jpg)**.
+**Wallpaper [here](fern_leaf_plant_green_119970_1920x1080.jpg)**.
 
 # To have polybar you have to Install following packages:
 -   **Font**: [Cozette](https://aur.archlinux.org/packages/cozette-otb),[font-Awesome](https://www.archlinux.org/packages/community/any/ttf-font-awesome/),[IPAGothic](https://www.archlinux.org/packages/?name=otf-ipafont)
