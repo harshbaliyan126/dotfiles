@@ -9,7 +9,7 @@ Here is my Arch Linux configuration
 | **Distribution**         | Arch Linux                                                                                                             |
 | **Window Manager**       | [bspwm](https://github.com/baskerville/bspwm) with [sxhkd](https://github.com/baskerville/sxhkd) as keybindings daemon |
 | **Shell**                | Zsh                                                                                                                 |
-| **Terminal**             | [URxvt](http://software.schmorp.de/pkg/rxvt-unicode.html)                                                              |
+| **Terminal**             | [Alacritty](https://github.com/alacritty/alacritty)                                                              |
 | **Display Manager**      | [LightDM](https://github.com/canonical/lightdm) with [webkit2-greeter](https://github.com/antergos/web-greeter)        |
 | **Apps Launcher**        | [dmenu](https://tools.suckless.org/dmenu/)                                                                             |
 | **Text Editor**         | Neovim                                                                                                                 |
@@ -20,14 +20,14 @@ Here is my Arch Linux configuration
 | **Network Manager**      | [NetworkManager](https://wiki.gnome.org/Projects/NetworkManager/)                                                      |
 | **Image Viewer**         | [sxiv](https://wiki.archlinux.org/index.php/Sxiv)                                                                                    |
 | **Screenshot App**       | [scrot](https://github.com/resurrecting-open-source-projects/scrot)                                                    |
-| **System Monitor (CLI)** | ytop                                                                                                                   | 
+| **System Monitor (CLI)** | ytop                                                                                                                   |
 | **Notification-daemon**  | [Deadd Notification Center](https://aur.archlinux.org/packages/deadd-notification-center/)                             |
 
-### Here is the screenshot 
+### Here is the screenshot
 
 ![Screenshot of my Arch Linux environment](desktop2.png)
 
-### Here is all other details 
+### Here is all other details
 
 -   **WM**: bspwm
 -   **Terminal**: URxvt
@@ -40,8 +40,8 @@ Here is my Arch Linux configuration
 
 # To have polybar you have to Install following packages:
 -   **Font**: [Cozette](https://aur.archlinux.org/packages/cozette-otb),[font-Awesome](https://www.archlinux.org/packages/community/any/ttf-font-awesome/),[IPAGothic](https://www.archlinux.org/packages/?name=otf-ipafont)
--   **Spotify**: Get [playerctl](https://aur.archlinux.org/packages/playerctl-git/) from aur repository 
-## To clone my repo do as following 
+-   **Spotify**: Get [playerctl](https://aur.archlinux.org/packages/playerctl-git/) from aur repository
+## To clone my repo do as following
 
 1. Clone this in your home directory
 
@@ -53,11 +53,11 @@ $ git clone https://github.com/harshbaliyan126/dotfiles.git
 
 ```console
 $ cd ~/dotfiles
-$ cp -ur bspwm nvim picom polybar sxhkd spicetify ~/.config 
+$ cp -ur bspwm nvim picom polybar sxhkd spicetify ~/.config
 $ cp .Xresources .xbindkeysec .xprofile .zshrc ~
 ```
-3. Then simply reboot 
+3. Then simply reboot
 
 ```console
-$ reboot 
+$ reboot
 ```
