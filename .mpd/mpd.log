@@ -1,0 +1,744 @@
+Aug 04 10:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 10:24 : exception: Failed to open '/home/dev420/.mpd/mpdstate': No such file or directory
+Aug 04 10:24 : update: added /Trevor Daniel - Falling (Official Music Video)-L7mfjvdnPno.webm
+Aug 04 10:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 10:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 10:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 10:32 : client: [0] opened from 127.0.0.1:52374
+Aug 04 10:33 : exception: No such directory
+Aug 04 10:33 : exception: Failed to open '/home/dev420/Music/exit.m3u': No such file or directory
+Aug 04 10:33 : exception: No such playlist
+Aug 04 10:34 : client: [0] closed
+Aug 04 10:34 : client: [1] opened from 127.0.0.1:52376
+Aug 04 10:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 10:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 10:34 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 10:35 : client: [1] closed
+Aug 04 10:35 : client: [2] opened from 127.0.0.1:52378
+Aug 04 10:35 : client: [2] closed
+Aug 04 10:35 : client: [3] opened from 127.0.0.1:52380
+Aug 04 10:35 : client: [3] closed
+Aug 04 10:35 : client: [4] opened from 127.0.0.1:52382
+Aug 04 10:36 : client: [4] closed
+Aug 04 10:36 : player: played "Trevor Daniel - Falling (Official Music Video)-L7mfjvdnPno.webm"
+Aug 04 10:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 10:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 10:36 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 10:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 10:36 : client: [0] opened from 127.0.0.1:52392
+Aug 04 10:36 : client: [0] closed
+Aug 04 10:36 : client: [1] opened from 127.0.0.1:52394
+Aug 04 10:37 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 10:38 : player: played "Trevor Daniel - Falling (Official Music Video)-L7mfjvdnPno.webm"
+Aug 04 10:38 : client: [1] closed
+Aug 04 10:40 : client: [2] opened from 127.0.0.1:52404
+Aug 04 10:41 : client: [2] closed
+Aug 04 10:41 : client: [3] opened from 127.0.0.1:52446
+Aug 04 10:50 : client: [4] opened from 127.0.0.1:52516
+Aug 04 10:50 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 10:50 : client: [4] closed
+Aug 04 10:50 : player: played "Trevor Daniel - Falling (Official Music Video)-L7mfjvdnPno.webm"
+Aug 04 10:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 10:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 10:50 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 10:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 10:50 : client: [0] opened from 127.0.0.1:52568
+Aug 04 10:51 : client: [1] opened from 127.0.0.1:52570
+Aug 04 10:51 : client: [0] closed
+Aug 04 10:52 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 10:52 : player: played "Trevor Daniel - Falling (Official Music Video)-L7mfjvdnPno.webm"
+Aug 04 10:53 : client: [1] closed
+Aug 04 10:53 : client: [2] opened from 127.0.0.1:52610
+Aug 04 10:53 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 10:53 : client: [2] closed
+Aug 04 10:53 : client: [3] opened from 127.0.0.1:52624
+Aug 04 10:53 : player: played "Trevor Daniel - Falling (Official Music Video)-L7mfjvdnPno.webm"
+Aug 04 10:54 : client: [4] opened from 127.0.0.1:52668
+Aug 04 10:54 : client: [4] closed
+Aug 04 10:54 : client: [3] closed
+Aug 04 10:54 : client: [5] opened from 127.0.0.1:52670
+Aug 04 10:54 : client: [5] closed
+Aug 04 10:59 : client: [6] opened from 127.0.0.1:52820
+Aug 04 10:59 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 10:59 : client: [6] closed
+Aug 04 11:00 : client: [7] opened from 127.0.0.1:52822
+Aug 04 11:00 : client: [7] closed
+Aug 04 11:00 : client: [8] opened from 127.0.0.1:52844
+Aug 04 11:00 : client: [8] closed
+Aug 04 11:00 : client: [9] opened from 127.0.0.1:52858
+Aug 04 11:00 : player: played "Trevor Daniel - Falling (Official Music Video)-L7mfjvdnPno.webm"
+Aug 04 11:00 : client: [9] closed
+Aug 04 11:00 : client: [10] opened from 127.0.0.1:52900
+Aug 04 11:00 : client: [10] closed
+Aug 04 11:01 : client: [11] opened from 127.0.0.1:52908
+Aug 04 11:01 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 11:01 : client: [11] closed
+Aug 04 11:02 : client: [12] opened from 127.0.0.1:52916
+Aug 04 11:02 : client: [12] closed
+Aug 04 11:02 : player: played "Trevor Daniel - Falling (Official Music Video)-L7mfjvdnPno.webm"
+Aug 04 11:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 11:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 11:02 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 11:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 11:02 : client: [0] opened from 127.0.0.1:52948
+Aug 04 11:03 : client: [0] closed
+Aug 04 11:03 : client: [1] opened from 127.0.0.1:52992
+Aug 04 11:03 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 11:04 : player: played "Trevor Daniel - Falling (Official Music Video)-L7mfjvdnPno.webm"
+Aug 04 11:06 : client: [1] closed
+Aug 04 11:06 : client: [2] opened from 127.0.0.1:53150
+Aug 04 11:06 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 11:06 : player: played "Trevor Daniel - Falling (Official Music Video)-L7mfjvdnPno.webm"
+Aug 04 11:07 : client: [2] closed
+Aug 04 11:07 : client: [3] opened from 127.0.0.1:53190
+Aug 04 11:07 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 11:08 : player: played "Trevor Daniel - Falling (Official Music Video)-L7mfjvdnPno.webm"
+Aug 04 11:08 : client: [3] closed
+Aug 04 11:29 : client: [4] opened from 127.0.0.1:53520
+Aug 04 11:29 : update: added /Alan Walker - Darkside (feat. Au_Ra and Tomine Harket)-M-P4QBt-FWw.webm
+Aug 04 11:29 : update: added /The Chainsmokers - Call You Mine (Official Video) ft. Bebe Rexha-3XCVM3G3pns.webm
+Aug 04 11:29 : update: added /Lil Mosey - Blueberry Faygo (Dir. by @_ColeBennett_)-V_jHc_n0p9c.webm
+Aug 04 11:29 : update: added /The Weeknd - Heartless (Official Video)-1DpH-icPpl0.webm
+Aug 04 11:29 : update: added /Roy Jones Jr. - Can't Be Touched-ZIbOKGTB1Po.webm
+Aug 04 11:29 : update: added /K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm
+Aug 04 11:29 : update: added /Ant Saunders - Yellow Hearts (Lyrics)-bzd4n1OEML4.webm
+Aug 04 11:29 : update: added /Trevor Daniel - Never (Lyrics)-y-AB_x86824.webm
+Aug 04 11:29 : update: added /XXXTENTACION - Jocelyn Flores (Audio)-FAucVNRx_mU.webm
+Aug 04 11:29 : update: added /NF - WHY-zuJV-DAv_wE.webm
+Aug 04 11:29 : update: added /Lil Nas X - Old Town Road (Official Movie) ft. Billy Ray Cyrus-w2Ov5jzm3j8.webm
+Aug 04 11:29 : update: added /DaBaby - Rockstar feat. Roddy Ricch (Official Music Video)-mxFstYSbBmc.webm
+Aug 04 11:29 : update: added /Trevor Daniel - On My Own (Lyrics)-24N5UGcIUQ4.webm
+Aug 04 11:29 : update: added /Imagine Dragons - Whatever It Takes-gOsM-DYAEhY.webm
+Aug 04 11:29 : update: added /Khalid - Better (Official Video)-x3bfa3DZ8JM.webm
+Aug 04 11:29 : update: added /Arizona Zervas - ROXANNE (Official Video)-16YnOUnbE6s.webm
+Aug 04 11:29 : update: added /6LACK - Prblms (Official Video)-fS9m0Ac8PCU.webm
+Aug 04 11:29 : update: added /XXXTENTACION - Everybody Dies In Their Nightmares (Audio)-7JGDWKJfgxQ.webm
+Aug 04 11:29 : update: added /The Chainsmokers - The Reaper (Lyric Video) ft. Amy Shark-fedAblHei1Q.webm
+Aug 04 11:29 : update: added /I Am King - Impossible [GMV]-wSBviRuCi-E.webm
+Aug 04 11:29 : update: added /Travis Scott - HIGHEST IN THE ROOM (Official Music Video)-tfSS1e3kYeo.webm
+Aug 04 11:29 : update: added /Martin Garrix & Bebe Rexha - In The Name Of Love (Official Video)-RnBT9uUYb1w.webm
+Aug 04 11:29 : update: added /Alan Walker - Diamond Heart (feat. Sophia Somajo)-sJXZ9Dok7u8.webm
+Aug 04 11:29 : update: added /Trevor Daniel - Mess (Lyrics)-V0mulVoa9v8.webm
+Aug 04 11:29 : update: added /XXXTENTACION - Carry On (Audio)-EhTH8OIPoY4.webm
+Aug 04 11:29 : update: added /The Bilz & Kashif - Tera Nasha _ Official Video HD-sUmZvAafs3Y.webm
+Aug 04 11:29 : update: added /Adam Oh - Trapped In My Mind (Lyrics _ Lyric Video)-I-l_fSV2PtQ.webm
+Aug 04 11:29 : update: added /Trevor Daniel - Forgot (Lyrics)-LcjyaTRxKOc.m4a
+Aug 04 11:29 : update: added /The Chainsmokers - Hope ft. Winona Oak (Lyric Video)-SJOgTMP8cs4.webm
+Aug 04 11:29 : update: added /XXXTENTACION - Fuck Love (Audio) (feat. Trippie Redd)-JcWOSgImiRw.webm
+Aug 04 11:29 : update: added /blackbear - hot girl bummer [big budget music video]-5cPW0ggFq04.webm
+Aug 04 11:29 : update: added /Trevor Daniel - Closure (Lyrics)-Qm_uB5rX_To.webm
+Aug 04 11:29 : update: added /HVME - GOOSEBUMPS (Official Video)-W5b-a8Nzmag.webm
+Aug 04 11:29 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 11:30 : client: [5] opened from 127.0.0.1:53580
+Aug 04 11:30 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 11:30 : player: played "XXXTENTACION - Everybody Dies In Their Nightmares (Audio)-7JGDWKJfgxQ.webm"
+Aug 04 11:31 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 11:32 : client: [4] closed
+Aug 04 11:32 : client: [6] opened from 127.0.0.1:53654
+Aug 04 11:33 : client: [7] opened from 127.0.0.1:53706
+Aug 04 11:33 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 11:33 : player: played "XXXTENTACION - Carry On (Audio)-EhTH8OIPoY4.webm"
+Aug 04 11:33 : client: [8] opened from 127.0.0.1:53758
+Aug 04 11:33 : client: [8] closed
+Aug 04 11:33 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 11:33 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 11:35 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 11:35 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 11:35 : player: played "XXXTENTACION - Everybody Dies In Their Nightmares (Audio)-7JGDWKJfgxQ.webm"
+Aug 04 11:37 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 11:37 : player: played "XXXTENTACION - Carry On (Audio)-EhTH8OIPoY4.webm"
+Aug 04 11:53 : client: [6] closed
+Aug 04 11:53 : client: [9] opened from 127.0.0.1:54290
+Aug 04 11:53 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 11:53 : client: [9] closed
+Aug 04 11:56 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 11:56 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 11:57 : player: played "I Am King - Impossible [GMV]-wSBviRuCi-E.webm"
+Aug 04 11:57 : client: [10] opened from 127.0.0.1:54424
+Aug 04 11:57 : player: played "Imagine Dragons - Whatever It Takes-gOsM-DYAEhY.webm"
+Aug 04 12:00 : client: [10] closed
+Aug 04 12:00 : client: [7] closed
+Aug 04 18:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 18:15 : client: [0] opened from 127.0.0.1:38272
+Aug 04 18:15 : client: [1] opened from 127.0.0.1:38274
+Aug 04 18:15 : client: [1] closed
+Aug 04 18:15 : client: [2] opened from 127.0.0.1:38276
+Aug 04 18:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 18:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 18:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 18:15 : client: [2] closed
+Aug 04 18:58 : player: played "Imagine Dragons - Whatever It Takes-gOsM-DYAEhY.webm"
+Aug 04 22:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 22:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 22:54 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 22:54 : client: [0] opened from 127.0.0.1:52812
+Aug 04 22:54 : client: [1] opened from 127.0.0.1:52814
+Aug 04 22:54 : client: [1] closed
+Aug 04 22:59 : client: [2] opened from 127.0.0.1:52844
+Aug 04 23:00 : client: [3] opened from 127.0.0.1:52876
+Aug 04 23:00 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:02 : player: played "blackbear - hot girl bummer [big budget music video]-5cPW0ggFq04.webm"
+Aug 04 23:06 : client: [0] closed
+Aug 04 23:06 : client: [4] opened from 127.0.0.1:53054
+Aug 04 23:08 : client: [4] closed
+Aug 04 23:08 : client: [5] opened from 127.0.0.1:53156
+Aug 04 23:08 : client: [5] closed
+Aug 04 23:08 : client: [6] opened from 127.0.0.1:53166
+Aug 04 23:08 : client: [6] closed
+Aug 04 23:08 : client: [7] opened from 127.0.0.1:53170
+Aug 04 23:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:12 : client: [0] opened from 127.0.0.1:47230
+Aug 04 23:12 : client: [1] opened from 127.0.0.1:47262
+Aug 04 23:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:12 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:13 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:15 : player: played "HVME - GOOSEBUMPS (Official Video)-W5b-a8Nzmag.webm"
+Aug 04 23:15 : client: [1] closed
+Aug 04 23:16 : client: [2] opened from 127.0.0.1:47336
+Aug 04 23:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:16 : player: played "HVME - GOOSEBUMPS (Official Video)-W5b-a8Nzmag.webm"
+Aug 04 23:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:17 : player: played "Travis Scott - HIGHEST IN THE ROOM (Official Music Video)-tfSS1e3kYeo.webm"
+Aug 04 23:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:17 : client: [3] opened from 127.0.0.1:47402
+Aug 04 23:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:17 : client: [3] closed
+Aug 04 23:17 : client: [4] opened from 127.0.0.1:47404
+Aug 04 23:17 : client: [4] closed
+Aug 04 23:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:17 : client: [5] opened from 127.0.0.1:47406
+Aug 04 23:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:17 : client: [5] closed
+Aug 04 23:17 : client: [6] opened from 127.0.0.1:47408
+Aug 04 23:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:17 : client: [6] closed
+Aug 04 23:20 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 23:20 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:20 : player: played "Travis Scott - HIGHEST IN THE ROOM (Official Music Video)-tfSS1e3kYeo.webm"
+Aug 04 23:23 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 23:23 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:23 : player: played "Trevor Daniel - Never (Lyrics)-y-AB_x86824.webm"
+Aug 04 23:24 : client: [7] opened from 127.0.0.1:47680
+Aug 04 23:24 : client: [7] closed
+Aug 04 23:24 : client: [8] opened from 127.0.0.1:47684
+Aug 04 23:24 : client: [8] closed
+Aug 04 23:24 : client: [9] opened from 127.0.0.1:47696
+Aug 04 23:24 : client: [9] closed
+Aug 04 23:24 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 23:24 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:24 : player: played "XXXTENTACION - Everybody Dies In Their Nightmares (Audio)-7JGDWKJfgxQ.webm"
+Aug 04 23:27 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 23:27 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:27 : client: [10] opened from 127.0.0.1:47780
+Aug 04 23:27 : client: [10] closed
+Aug 04 23:30 : player: played "Trevor Daniel - On My Own (Lyrics)-24N5UGcIUQ4.webm"
+Aug 04 23:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:32 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:32 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 23:32 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:32 : client: [0] opened from 127.0.0.1:48130
+Aug 04 23:34 : player: played "Trevor Daniel - On My Own (Lyrics)-24N5UGcIUQ4.webm"
+Aug 04 23:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:34 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:34 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 23:34 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:34 : client: [0] opened from 127.0.0.1:48196
+Aug 04 23:34 : client: [1] opened from 127.0.0.1:48218
+Aug 04 23:34 : client: [1] closed
+Aug 04 23:34 : client: [2] opened from 127.0.0.1:48252
+Aug 04 23:34 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:34 : client: [2] closed
+Aug 04 23:34 : player: played "Trevor Daniel - On My Own (Lyrics)-24N5UGcIUQ4.webm"
+Aug 04 23:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:36 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:36 : client: [0] opened from 127.0.0.1:59422
+Aug 04 23:38 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 23:38 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:38 : player: played "Trevor Daniel - On My Own (Lyrics)-24N5UGcIUQ4.webm"
+Aug 04 23:39 : client: [1] opened from 127.0.0.1:59460
+Aug 04 23:39 : client: [1] closed
+Aug 04 23:41 : player: played "XXXTENTACION - Fuck Love (Audio) (feat. Trippie Redd)-JcWOSgImiRw.webm"
+Aug 04 23:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:42 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:42 : client: [0] opened from 127.0.0.1:59536
+Aug 04 23:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:42 : client: [0] closed
+Aug 04 23:42 : player: played "XXXTENTACION - Fuck Love (Audio) (feat. Trippie Redd)-JcWOSgImiRw.webm"
+Aug 04 23:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:47 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:47 : client: [0] opened from 127.0.0.1:59628
+Aug 04 23:49 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 23:49 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:49 : player: played "XXXTENTACION - Fuck Love (Audio) (feat. Trippie Redd)-JcWOSgImiRw.webm"
+Aug 04 23:51 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 04 23:51 : player: played "XXXTENTACION - Jocelyn Flores (Audio)-FAucVNRx_mU.webm"
+Aug 04 23:52 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:53 : player: played "Trevor Daniel - Mess (Lyrics)-V0mulVoa9v8.webm"
+Aug 04 23:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:56 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 04 23:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 23:56 : client: [0] opened from 127.0.0.1:56978
+Aug 04 23:57 : client: [1] opened from 127.0.0.1:56980
+Aug 04 23:57 : client: [1] closed
+Aug 05 00:05 : client: [2] opened from 127.0.0.1:56986
+Aug 05 00:05 : client: [2] closed
+Aug 05 00:08 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 00:08 : player: played "Trevor Daniel - Forgot (Lyrics)-LcjyaTRxKOc.m4a"
+Aug 05 00:09 : client: [3] opened from 127.0.0.1:57016
+Aug 05 00:09 : client: [3] closed
+Aug 05 00:27 : client: [4] opened from 127.0.0.1:57136
+Aug 05 00:29 : client: [5] opened from 127.0.0.1:57190
+Aug 05 00:29 : client: [5] closed
+Aug 05 00:33 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 00:33 : client: [4] closed
+Aug 05 00:35 : player: played "Adam Oh - Trapped In My Mind (Lyrics _ Lyric Video)-I-l_fSV2PtQ.webm"
+Aug 05 00:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 00:35 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 00:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 00:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 00:35 : client: [0] opened from 127.0.0.1:57338
+Aug 05 00:36 : client: [1] opened from 127.0.0.1:57342
+Aug 05 00:36 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 00:36 : client: [1] closed
+Aug 05 00:36 : client: [2] opened from 127.0.0.1:57344
+Aug 05 00:36 : client: [2] closed
+Aug 05 00:36 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 00:36 : client: [3] opened from 127.0.0.1:57346
+Aug 05 00:36 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 00:36 : client: [3] closed
+Aug 05 00:39 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 05 00:39 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 00:40 : player: played "Alan Walker - Diamond Heart (feat. Sophia Somajo)-sJXZ9Dok7u8.webm"
+Aug 05 00:44 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 05 00:44 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 00:44 : player: played "Ant Saunders - Yellow Hearts (Lyrics)-bzd4n1OEML4.webm"
+Aug 05 00:47 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 05 00:47 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 00:47 : player: played "Arizona Zervas - ROXANNE (Official Video)-16YnOUnbE6s.webm"
+Aug 05 00:50 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 05 00:50 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 00:50 : player: played "blackbear - hot girl bummer [big budget music video]-5cPW0ggFq04.webm"
+Aug 05 00:51 : client: [4] opened from 127.0.0.1:57430
+Aug 05 00:53 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 00:55 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 05 00:55 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 00:55 : player: played "HVME - GOOSEBUMPS (Official Video)-W5b-a8Nzmag.webm"
+Aug 05 00:59 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 05 00:59 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 00:59 : player: played "I Am King - Impossible [GMV]-wSBviRuCi-E.webm"
+Aug 05 01:03 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 05 01:03 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 01:03 : player: played "Imagine Dragons - Whatever It Takes-gOsM-DYAEhY.webm"
+Aug 05 01:07 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 05 01:07 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 01:07 : player: played "K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm"
+Aug 05 01:11 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 05 01:11 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 01:11 : player: played "Khalid - Better (Official Video)-x3bfa3DZ8JM.webm"
+Aug 05 01:14 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 05 01:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 01:14 : player: played "Martin Garrix & Bebe Rexha - In The Name Of Love (Official Video)-RnBT9uUYb1w.webm"
+Aug 05 01:14 : client: [5] opened from 127.0.0.1:58294
+Aug 05 01:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 01:14 : client: [5] closed
+Aug 05 01:14 : client: [6] opened from 127.0.0.1:58312
+Aug 05 01:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 01:14 : client: [6] closed
+Aug 05 01:17 : client: [7] opened from 127.0.0.1:58452
+Aug 05 01:17 : client: [7] closed
+Aug 05 02:05 : client: [0] closed
+Aug 05 02:05 : player: played "Roy Jones Jr. - Can't Be Touched-ZIbOKGTB1Po.webm"
+Aug 05 02:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 02:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 02:06 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 02:06 : client: [0] opened from 127.0.0.1:42194
+Aug 05 03:18 : player: played "Roy Jones Jr. - Can't Be Touched-ZIbOKGTB1Po.webm"
+Aug 05 11:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 11:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 11:55 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 11:55 : client: [0] opened from 127.0.0.1:58474
+Aug 05 12:10 : client: [0] closed
+Aug 05 12:10 : client: [1] opened from 127.0.0.1:58690
+Aug 05 12:11 : client: [1] closed
+Aug 05 12:11 : client: [2] opened from 127.0.0.1:58696
+Aug 05 12:11 : client: [2] closed
+Aug 05 12:11 : client: [3] opened from 127.0.0.1:58702
+Aug 05 12:11 : client: [3] closed
+Aug 05 12:11 : client: [4] opened from 127.0.0.1:58708
+Aug 05 12:17 : client: [5] opened from 127.0.0.1:58774
+Aug 05 12:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 12:17 : client: [5] closed
+Aug 05 12:17 : client: [6] opened from 127.0.0.1:58776
+Aug 05 12:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 12:17 : client: [6] closed
+Aug 05 12:17 : client: [7] opened from 127.0.0.1:58778
+Aug 05 12:17 : client: [7] closed
+Aug 05 12:17 : client: [8] opened from 127.0.0.1:58780
+Aug 05 12:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 12:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 12:17 : player: played "The Chainsmokers - Call You Mine (Official Video) ft. Bebe Rexha-3XCVM3G3pns.webm"
+Aug 05 12:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 12:17 : client: [9] opened from 127.0.0.1:58818
+Aug 05 12:17 : client: [9] closed
+Aug 05 12:17 : client: [8] closed
+Aug 05 12:18 : client: [10] opened from 127.0.0.1:58836
+Aug 05 12:18 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 12:18 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 12:18 : client: [10] closed
+Aug 05 12:19 : client: [11] opened from 127.0.0.1:58862
+Aug 05 12:19 : client: [11] closed
+Aug 05 12:19 : player: played "K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm"
+Aug 05 12:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 12:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 12:20 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 12:20 : client: [0] opened from 127.0.0.1:36148
+Aug 05 12:20 : client: [1] opened from 127.0.0.1:36150
+Aug 05 12:20 : client: [1] closed
+Aug 05 13:16 : client: [0] closed
+Aug 05 13:16 : client: [2] opened from 127.0.0.1:37232
+Aug 05 13:16 : client: [2] closed
+Aug 05 13:16 : client: [3] opened from 127.0.0.1:37238
+Aug 05 13:55 : client: [3] closed
+Aug 05 13:55 : client: [4] opened from 127.0.0.1:37680
+Aug 05 14:29 : client: [4] closed
+Aug 05 14:29 : client: [5] opened from 127.0.0.1:38260
+Aug 05 14:33 : client: [6] opened from 127.0.0.1:38280
+Aug 05 14:33 : player: played "K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm"
+Aug 05 14:33 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 14:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 14:33 : client: [6] closed
+Aug 05 14:34 : client: [7] opened from 127.0.0.1:38364
+Aug 05 14:34 : client: [7] closed
+Aug 05 14:34 : player: played "K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm"
+Aug 05 18:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 18:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 18:52 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 18:52 : client: [0] opened from 127.0.0.1:33260
+Aug 05 19:44 : client: [0] closed
+Aug 05 19:44 : client: [1] opened from 127.0.0.1:34102
+Aug 05 19:52 : player: played "K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm"
+Aug 05 20:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 20:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 20:36 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 05 20:36 : client: [0] opened from 127.0.0.1:47600
+Aug 05 20:49 : player: played "K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm"
+Aug 06 12:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 12:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 12:09 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 06 12:09 : client: [0] opened from 127.0.0.1:48530
+Aug 06 13:18 : player: played "K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm"
+Aug 06 13:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 13:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 13:19 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 06 13:19 : client: [0] opened from 127.0.0.1:54326
+Aug 06 13:23 : client: [0] closed
+Aug 06 13:24 : client: [1] opened from 127.0.0.1:54372
+Aug 06 13:24 : player: played "K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm"
+Aug 06 13:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 13:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 13:25 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 06 13:25 : client: [0] opened from 127.0.0.1:47316
+Aug 06 13:27 : client: [0] closed
+Aug 06 13:27 : client: [1] opened from 127.0.0.1:47366
+Aug 06 13:27 : player: played "K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm"
+Aug 06 13:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 13:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 13:28 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 06 13:28 : client: [0] opened from 127.0.0.1:52104
+Aug 06 18:19 : player: played "K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm"
+Aug 07 13:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 13:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 13:11 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 07 13:11 : client: [0] opened from 127.0.0.1:51920
+Aug 07 13:22 : player: played "K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm"
+Aug 08 20:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 20:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 20:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 08 20:17 : client: [0] opened from 127.0.0.1:45168
+Aug 09 00:13 : player: played "K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm"
+Aug 09 00:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 00:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 00:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 09 00:14 : client: [0] opened from 127.0.0.1:46330
+Aug 09 00:49 : player: played "K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm"
+Aug 11 09:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 09:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 09:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 11 09:15 : client: [0] opened from 127.0.0.1:40464
+Aug 11 09:22 : player: played "K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm"
+Aug 11 09:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 09:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 09:22 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 11 09:22 : client: [0] opened from 127.0.0.1:40602
+Aug 11 09:45 : client: [1] opened from 127.0.0.1:40932
+Aug 11 09:46 : client: [1] closed
+Aug 11 09:54 : client: [2] opened from 127.0.0.1:40976
+Aug 11 09:54 : client: [2] closed
+Aug 11 09:54 : client: [3] opened from 127.0.0.1:41010
+Aug 11 09:54 : client: [3] closed
+Aug 11 10:09 : client: [4] opened from 127.0.0.1:41128
+Aug 11 10:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:09 : client: [4] closed
+Aug 11 10:09 : client: [5] opened from 127.0.0.1:41130
+Aug 11 10:09 : client: [5] closed
+Aug 11 10:09 : player: played "K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm"
+Aug 11 10:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:10 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 11 10:10 : client: [0] opened from 127.0.0.1:41138
+Aug 11 10:10 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 11 10:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:10 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 11 10:10 : player: played "Roy Jones Jr. - Can't Be Touched-ZIbOKGTB1Po.webm"
+Aug 11 10:10 : client: [0] closed
+Aug 11 10:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:13 : client: [0] opened from 127.0.0.1:52216
+Aug 11 10:14 : client: [1] opened from 127.0.0.1:52218
+Aug 11 10:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 11 10:14 : player: played "The Chainsmokers - Call You Mine (Official Video) ft. Bebe Rexha-3XCVM3G3pns.webm"
+Aug 11 10:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 11 10:14 : player: played "Trevor Daniel - Mess (Lyrics)-V0mulVoa9v8.webm"
+Aug 11 10:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 11 10:14 : client: [1] closed
+Aug 11 10:38 : player: played "Trevor Daniel - Mess (Lyrics)-V0mulVoa9v8.webm"
+Aug 11 10:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:38 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 11 10:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:38 : client: [0] opened from 127.0.0.1:52570
+Aug 11 10:40 : player: played "Trevor Daniel - Mess (Lyrics)-V0mulVoa9v8.webm"
+Aug 11 10:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:40 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 11 10:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:40 : client: [0] opened from 127.0.0.1:52580
+Aug 11 10:40 : client: [1] opened from 127.0.0.1:52582
+Aug 11 10:40 : client: [1] closed
+Aug 11 10:41 : client: [2] opened from 127.0.0.1:52606
+Aug 11 10:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:42 : player: played "Trevor Daniel - Mess (Lyrics)-V0mulVoa9v8.webm"
+Aug 11 10:42 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 11 10:43 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 11 10:43 : client: [2] closed
+Aug 11 10:43 : client: [3] opened from 127.0.0.1:52680
+Aug 11 10:44 : client: [3] closed
+Aug 11 10:44 : client: [4] opened from 127.0.0.1:52714
+Aug 11 10:44 : client: [4] closed
+Aug 11 10:44 : player: played "6LACK - Prblms (Official Video)-fS9m0Ac8PCU.webm"
+Aug 11 10:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:44 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 11 10:44 : client: [0] opened from 127.0.0.1:52730
+Aug 11 10:44 : client: [1] opened from 127.0.0.1:52732
+Aug 11 10:46 : player: played "6LACK - Prblms (Official Video)-fS9m0Ac8PCU.webm"
+Aug 11 10:48 : client: [1] closed
+Aug 11 10:49 : client: [2] opened from 127.0.0.1:52820
+Aug 11 10:51 : client: [2] closed
+Aug 11 10:52 : client: [3] opened from 127.0.0.1:52840
+Aug 11 10:53 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 11 10:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:54 : client: [3] closed
+Aug 11 10:56 : client: [4] opened from 127.0.0.1:52886
+Aug 11 10:56 : client: [4] closed
+Aug 11 10:57 : player: played "6LACK - Prblms (Official Video)-fS9m0Ac8PCU.webm"
+Aug 11 10:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:57 : update: added /Alan Walker - Darkside (feat. Au_Ra and Tomine Harket)-M-P4QBt-FWw.webm
+Aug 11 10:57 : update: added /Trevor Daniel - Falling (Official Music Video)-L7mfjvdnPno.webm
+Aug 11 10:57 : update: added /The Chainsmokers - Call You Mine (Official Video) ft. Bebe Rexha-3XCVM3G3pns.webm
+Aug 11 10:57 : update: added /Lil Mosey - Blueberry Faygo (Dir. by @_ColeBennett_)-V_jHc_n0p9c.webm
+Aug 11 10:57 : update: added /The Weeknd - Heartless (Official Video)-1DpH-icPpl0.webm
+Aug 11 10:57 : update: added /Roy Jones Jr. - Can't Be Touched-ZIbOKGTB1Po.webm
+Aug 11 10:57 : update: added /K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)-Az-mGR-CehY.webm
+Aug 11 10:57 : update: added /Ant Saunders - Yellow Hearts (Lyrics)-bzd4n1OEML4.webm
+Aug 11 10:57 : update: added /Trevor Daniel - Never (Lyrics)-y-AB_x86824.webm
+Aug 11 10:57 : update: added /XXXTENTACION - Jocelyn Flores (Audio)-FAucVNRx_mU.webm
+Aug 11 10:57 : update: added /NF - WHY-zuJV-DAv_wE.webm
+Aug 11 10:57 : update: added /Lil Nas X - Old Town Road (Official Movie) ft. Billy Ray Cyrus-w2Ov5jzm3j8.webm
+Aug 11 10:57 : update: added /DaBaby - Rockstar feat. Roddy Ricch (Official Music Video)-mxFstYSbBmc.webm
+Aug 11 10:57 : update: added /Trevor Daniel - On My Own (Lyrics)-24N5UGcIUQ4.webm
+Aug 11 10:57 : update: added /Imagine Dragons - Whatever It Takes-gOsM-DYAEhY.webm
+Aug 11 10:57 : update: added /Khalid - Better (Official Video)-x3bfa3DZ8JM.webm
+Aug 11 10:57 : update: added /Arizona Zervas - ROXANNE (Official Video)-16YnOUnbE6s.webm
+Aug 11 10:57 : update: added /6LACK - Prblms (Official Video)-fS9m0Ac8PCU.webm
+Aug 11 10:57 : update: added /XXXTENTACION - Everybody Dies In Their Nightmares (Audio)-7JGDWKJfgxQ.webm
+Aug 11 10:57 : update: added /The Chainsmokers - The Reaper (Lyric Video) ft. Amy Shark-fedAblHei1Q.webm
+Aug 11 10:57 : update: added /I Am King - Impossible [GMV]-wSBviRuCi-E.webm
+Aug 11 10:57 : update: added /Travis Scott - HIGHEST IN THE ROOM (Official Music Video)-tfSS1e3kYeo.webm
+Aug 11 10:57 : update: added /Martin Garrix & Bebe Rexha - In The Name Of Love (Official Video)-RnBT9uUYb1w.webm
+Aug 11 10:57 : update: added /Alan Walker - Diamond Heart (feat. Sophia Somajo)-sJXZ9Dok7u8.webm
+Aug 11 10:57 : update: added /Trevor Daniel - Mess (Lyrics)-V0mulVoa9v8.webm
+Aug 11 10:57 : update: added /XXXTENTACION - Carry On (Audio)-EhTH8OIPoY4.webm
+Aug 11 10:57 : update: added /The Bilz & Kashif - Tera Nasha _ Official Video HD-sUmZvAafs3Y.webm
+Aug 11 10:57 : update: added /Adam Oh - Trapped In My Mind (Lyrics _ Lyric Video)-I-l_fSV2PtQ.webm
+Aug 11 10:57 : client: [0] opened from 127.0.0.1:52918
+Aug 11 10:57 : update: added /Trevor Daniel - Forgot (Lyrics)-LcjyaTRxKOc.m4a
+Aug 11 10:57 : update: added /The Chainsmokers - Hope ft. Winona Oak (Lyric Video)-SJOgTMP8cs4.webm
+Aug 11 10:57 : update: added /XXXTENTACION - Fuck Love (Audio) (feat. Trippie Redd)-JcWOSgImiRw.webm
+Aug 11 10:57 : update: added /blackbear - hot girl bummer [big budget music video]-5cPW0ggFq04.webm
+Aug 11 10:57 : update: added /Trevor Daniel - Closure (Lyrics)-Qm_uB5rX_To.webm
+Aug 11 10:57 : update: added /HVME - GOOSEBUMPS (Official Video)-W5b-a8Nzmag.webm
+Aug 11 10:57 : client: [1] opened from 127.0.0.1:52922
+Aug 11 10:58 : client: [1] closed
+Aug 11 11:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 11:03 : client: [0] opened from 127.0.0.1:52974
+Aug 11 11:19 : client: [1] opened from 127.0.0.1:53134
+Aug 11 11:19 : client: [1] closed
+Aug 11 11:22 : client: [0] closed
+Aug 13 16:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 16:14 : client: [0] opened from 127.0.0.1:54432
+Aug 13 16:15 : client: [1] opened from 127.0.0.1:54434
+Aug 13 16:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 16:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:17 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 13 16:17 : player: played "XXXTENTACION - Jocelyn Flores (Audio)-FAucVNRx_mU.webm"
+Aug 13 16:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:17 : player: played "6LACK - Prblms (Official Video)-fS9m0Ac8PCU.webm"
+Aug 13 16:17 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 16:17 : client: [2] opened from 127.0.0.1:55362
+Aug 13 16:17 : client: [2] closed
+Aug 13 16:18 : client: [1] closed
+Aug 13 16:37 : client: [0] closed
+Aug 13 16:37 : client: [3] opened from 127.0.0.1:55828
+Aug 13 16:46 : client: [3] closed
+Aug 13 16:46 : client: [4] opened from 127.0.0.1:56002
+Aug 13 16:46 : client: [4] closed
+Aug 13 16:46 : client: [5] opened from 127.0.0.1:56004
+Aug 13 16:47 : client: [5] closed
+Aug 13 16:47 : client: [6] opened from 127.0.0.1:56010
+Aug 13 16:47 : client: [6] closed
+Aug 13 16:47 : client: [7] opened from 127.0.0.1:56014
+Aug 13 16:47 : client: [7] closed
+Aug 13 16:47 : client: [8] opened from 127.0.0.1:56016
+Aug 13 16:48 : client: [8] closed
+Aug 13 16:48 : client: [9] opened from 127.0.0.1:56018
+Aug 13 16:48 : client: [9] closed
+Aug 13 16:48 : client: [10] opened from 127.0.0.1:56020
+Aug 13 16:51 : client: [10] closed
+Aug 13 16:51 : client: [11] opened from 127.0.0.1:56030
+Aug 13 17:16 : client: [12] opened from 127.0.0.1:56366
+Aug 13 17:27 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 17:27 : client: [13] opened from 127.0.0.1:56580
+Aug 13 17:28 : client: [12] closed
+Aug 13 17:28 : client: [14] opened from 127.0.0.1:56638
+Aug 13 17:28 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 13 17:28 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 17:28 : player: played "XXXTENTACION - Everybody Dies In Their Nightmares (Audio)-7JGDWKJfgxQ.webm"
+Aug 13 17:29 : client: [13] closed
+Aug 13 17:29 : client: [15] opened from 127.0.0.1:56780
+Aug 13 17:30 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 13 17:30 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 13 17:31 : player: played "XXXTENTACION - Fuck Love (Audio) (feat. Trippie Redd)-JcWOSgImiRw.webm"
+Aug 13 17:31 : client: [15] closed
+Aug 13 17:31 : client: [16] opened from 127.0.0.1:56900
+Aug 13 17:31 : client: [16] closed
+Aug 13 17:31 : client: [14] closed
+Aug 13 17:35 : client: [17] opened from 127.0.0.1:56918
+Aug 13 17:35 : client: [17] closed
+Aug 13 17:45 : client: [11] closed
+Aug 13 17:45 : client: [18] opened from 127.0.0.1:57016
+Aug 13 18:30 : player: played "XXXTENTACION - Jocelyn Flores (Audio)-FAucVNRx_mU.webm"
+Aug 14 05:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 05:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 05:35 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 14 05:35 : client: [0] opened from 127.0.0.1:38924
+Aug 14 05:38 : player: played "XXXTENTACION - Jocelyn Flores (Audio)-FAucVNRx_mU.webm"
+Aug 14 08:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 08:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 08:06 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 14 08:06 : client: [0] opened from 127.0.0.1:42546
+Aug 14 08:27 : client: [1] opened from 127.0.0.1:42856
+Aug 14 08:27 : client: [2] opened from 127.0.0.1:42876
+Aug 14 08:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 08:27 : client: [2] closed
+Aug 14 08:27 : client: [1] closed
+Aug 14 08:27 : client: [3] opened from 127.0.0.1:42888
+Aug 14 08:27 : client: [3] closed
+Aug 14 08:28 : client: [4] opened from 127.0.0.1:42896
+Aug 14 08:28 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 14 08:28 : client: [4] closed
+Aug 14 08:28 : client: [5] opened from 127.0.0.1:42904
+Aug 14 08:28 : client: [5] closed
+Aug 14 08:28 : client: [6] opened from 127.0.0.1:42906
+Aug 14 08:28 : client: [6] closed
+Aug 14 08:29 : client: [7] opened from 127.0.0.1:42944
+Aug 14 08:29 : client: [7] closed
+Aug 14 08:33 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 14 08:33 : player: played "Martin Garrix & Bebe Rexha - In The Name Of Love (Official Video)-RnBT9uUYb1w.webm"
+Aug 14 08:33 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 14 08:36 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Aug 14 08:36 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 14 08:36 : player: played "NF - WHY-zuJV-DAv_wE.webm"
+Aug 14 08:36 : client: [8] opened from 127.0.0.1:43100
+Aug 14 08:36 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Aug 14 08:36 : client: [8] closed
+Aug 14 08:36 : client: [9] opened from 127.0.0.1:43146
+Aug 14 08:36 : client: [9] closed
+Aug 14 08:36 : client: [10] opened from 127.0.0.1:43170
+Aug 14 08:36 : client: [10] closed
+Aug 14 08:37 : client: [11] opened from 127.0.0.1:43176
+Aug 14 08:37 : client: [12] opened from 127.0.0.1:43186
+Aug 14 08:37 : client: [12] closed
+Aug 14 08:37 : client: [11] closed
+Aug 14 08:37 : client: [13] opened from 127.0.0.1:43208
+Aug 14 08:37 : client: [13] closed
+Aug 14 08:39 : client: [14] opened from 127.0.0.1:43218
+Aug 14 08:40 : client: [14] closed
+Aug 14 08:40 : client: [15] opened from 127.0.0.1:43248
+Aug 14 08:40 : client: [15] closed
+Aug 14 08:40 : client: [16] opened from 127.0.0.1:43252
+Aug 14 08:41 : client: [17] opened from 127.0.0.1:43282
+Aug 14 08:42 : client: [16] closed
+Aug 14 08:46 : client: [18] opened from 127.0.0.1:43342
+Aug 14 08:46 : client: [18] closed
+Aug 14 08:46 : client: [19] opened from 127.0.0.1:43344
+Aug 14 08:46 : client: [19] closed
+Aug 14 08:48 : client: [20] opened from 127.0.0.1:43372
+Aug 14 08:48 : client: [20] closed
+Aug 14 08:48 : client: [21] opened from 127.0.0.1:43374
+Aug 14 08:48 : client: [21] closed
