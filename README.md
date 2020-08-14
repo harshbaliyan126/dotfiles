@@ -25,7 +25,7 @@ Here is my Arch Linux configuration
 
 ### Here is the screenshot
 
-![Screenshot of my Arch Linux environment](desktop2.png)
+![Screenshot of my Arch Linux environment](LeafRice.png)
 
 ### Here is all other details
 
@@ -36,7 +36,7 @@ Here is my Arch Linux configuration
 -   **Compositor**: Yeah
 -   **AUR Package Manager**: [Yay](https://github.com/Jguer/yay)
 
-**Wallpaper [hear](autumn_trees_road_fog_landscape_4288x2848.jpg)**.
+**Wallpaper [hear](fern_leaf_plant_green_119970_1920x1080.jpg)**.
 
 # To have polybar you have to Install following packages:
 -   **Font**: [Cozette](https://aur.archlinux.org/packages/cozette-otb),[font-Awesome](https://www.archlinux.org/packages/community/any/ttf-font-awesome/),[IPAGothic](https://www.archlinux.org/packages/?name=otf-ipafont)
