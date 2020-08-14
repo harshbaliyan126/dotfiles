@@ -21,7 +21,7 @@ Here is my Arch Linux configuration
 | **Image Viewer**         | [sxiv](https://wiki.archlinux.org/index.php/Sxiv)                                                                                    |
 | **Screenshot App**       | [scrot](https://github.com/resurrecting-open-source-projects/scrot)                                                    |
 | **System Monitor (CLI)** | ytop                                                                                                                   |
-| **Notification-daemon**  | [Deadd Notification Center](https://aur.archlinux.org/packages/deadd-notification-center/)                             |
+| **Notification-daemon**  | [Dunst](https://wiki.archlinux.org/index.php/Dunst)                             |
 
 ### Here is the screenshot
 
