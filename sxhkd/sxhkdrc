@@ -1,10 +1,10 @@
 #
 # wm independent hotkeys
 super + F1
-	scrot '%Y-%m-%d_$wx$h.jpg' -e 'mv $f ~/Pictures/'
+	scrot '%Y-%m-%d_$wx$h.png' -e 'mv $f ~/Pictures/'
 # hidden and shown state for deadd
-super + h
-	kill -s USR1 $(pidof deadd-notification-center)
+# super + h
+#	kill -s USR1 $(pidof deadd-notification-center)
 #super + F1
 	#spotify
 
@@ -14,7 +14,7 @@ super + F3
 
 # terminal emulator
 super + Return
-	termite
+	alacritty
 
 
 # program launcher
@@ -23,7 +23,7 @@ super + @space
 
 # launch browser
 super + F2
-	firefox
+	brave
 
 # make sxhkd reload its configuration files:
 super + Escape
