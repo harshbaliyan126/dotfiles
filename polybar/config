@@ -64,7 +64,7 @@ scroll-down = bspwm-deskprev
 [bar/music]
 inherit = bar/base
 enable-ipc = true
-width = 62.3%
+width = 61.3%
 
 offset-x = 19.0%
 
@@ -79,9 +79,9 @@ offset-x = 19.0%
 
 [bar/tray]
 inherit = bar/base
-width = 17%
+width = 18%
 
-offset-x = 82.3%
+offset-x = 81.3%
 
 modules-left = wired-network info-pingrtt time
 
@@ -145,7 +145,7 @@ label-song-ellipsis = true
 [module/time]
 type = internal/date
 interval = 10
-time = "%H:%M"
+time = "%I:%M %p"
 date = "%d %b"
 
 label = %date%, %time%
