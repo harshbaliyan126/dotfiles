@@ -64,23 +64,26 @@ scroll-down = bspwm-deskprev
 [bar/music]
 inherit = bar/base
 enable-ipc = true
-width = 70.5%
+width = 62.3%
 
-offset-x = 17.0%
+offset-x = 19.0%
 
 ; Spotify (uses playerctl)
-; modules-left = previous playpause next
+ modules-left = updates-dnf xwindow
+
  modules-center = previous playpause next spotify
+
+ modules-right = pulseaudio
 ; Mpd
 ;modules-center = mpd
 
 [bar/tray]
 inherit = bar/base
-width = 12%
+width = 17%
 
-offset-x = 87.5%
+offset-x = 82.3%
 
-modules-left = pulseaudio time
+modules-left = wired-network info-pingrtt time
 
 ;                      _       _
 ;  _ __ ___   ___   __| |_   _| | ___  ___
@@ -142,8 +145,6 @@ label-song-ellipsis = true
 [module/time]
 type = internal/date
 interval = 10
-format-margin = 2
-
 time = "%H:%M"
 date = "%d %b"
 
@@ -198,6 +199,34 @@ exec-if = "pgrep spotify"
 format-padding = 1
 tail = true
 interval = 1
+
+[module/info-pingrtt]
+type = custom/script
+exec = ~/scripts/info-pingrtt.sh
+interval = 10
+format-padding = 3
+
+[module/updates-dnf]
+type = custom/script
+exec = ~/scripts/updates-dnf.sh
+interval = 600
+
+[module/wired-network]
+type = internal/network
+interface = enp3s0
+interval = 3.0
+label-connected = Connected
+label-disconnected = Disconnected
+
+format-connected-foreground = ${colors.foreground}
+format-connected-background = ${colors.background}
+format-connected-prefix = ""
+format-connected-prefix-foreground = ${colors.foreground}
+format-connected-prefix-background = ${colors.background}
+format-padding = 3
+
+format-disconnected-prefix = 
+
 
 [settings]
 screenchange-reload = true
