@@ -64,7 +64,7 @@ scroll-down = bspwm-deskprev
 [bar/music]
 inherit = bar/base
 enable-ipc = true
-width = 61.3%
+width = 60.3%
 
 offset-x = 19.0%
 
@@ -79,11 +79,11 @@ offset-x = 19.0%
 
 [bar/tray]
 inherit = bar/base
-width = 18%
+width = 19%
 
-offset-x = 81.3%
+offset-x = 80.3%
 
-modules-left = wired-network info-pingrtt time
+modules-left = internet-conn info-pingrtt time
 
 ;                      _       _
 ;  _ __ ___   ___   __| |_   _| | ___  ___
@@ -211,6 +211,11 @@ type = custom/script
 exec = ~/scripts/updates-dnf.sh
 interval = 600
 
+[module/internet-conn]
+type = custom/script
+exec = ~/scripts/internet.sh
+interval = 300
+
 [module/wired-network]
 type = internal/network
 interface = enp3s0
@@ -225,8 +230,18 @@ format-connected-prefix-foreground = ${colors.foreground}
 format-connected-prefix-background = ${colors.background}
 format-padding = 3
 
+format-disconnected-foreground = ${colors.foreground}
+format-disconnected-background = ${colors.background}
 format-disconnected-prefix = 
+format-disconnected-prefix-foreground = ${colors.foreground}
+format-disconnected-prefix-background = ${colors.background}
 
+[module/onlinestatus]
+type = custom/script
+exec = polybar-onlinestatus
+label = %{T4} %output% %{T-}
+tail = true
+format-underline = #07BDEE
 
 [settings]
 screenchange-reload = true
