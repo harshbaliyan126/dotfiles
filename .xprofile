@@ -1,1 +1,3 @@
 xbindkeys &
+nvidia-settings --load-config-only &
+xmodmap ~/.Xmodmap &
